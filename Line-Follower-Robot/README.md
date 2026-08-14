@@ -6,14 +6,14 @@ The Line Follower Robot is an autonomous robotic vehicle that follows a predefin
 This project demonstrates the practical implementation of embedded systems, sensors, motor control, and Arduino programming.
 
 🛠️ Components Used
-Arduino UNO
-IR Sensor Module
-L298N Motor Driver
-DC Gear Motors
-Robot Chassis
-Wheels
-Battery
-Jumper Wires
+~Arduino UNO
+~IR Sensor Module
+~L298N Motor Driver
+~DC Gear Motors
+~Robot Chassis
+~Wheels
+~Battery
+~Jumper Wires
 ⚙️ Working Principle
 
 The IR sensors continuously detect the line on the surface.
