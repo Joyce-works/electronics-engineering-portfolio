@@ -1,0 +1,8 @@
+ESP32
+DHT11
+BMP280
+MQ135
+Rain Sensor
+Jumper Wires
+Breadboard
+USB Cable
