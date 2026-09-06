@@ -1,0 +1,17 @@
+# Arduino
+*.tmp
+*.bak
+*.swp
+
+# Arduino IDE
+build/
+cache/
+libraries/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
