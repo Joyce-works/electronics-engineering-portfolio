@@ -1,0 +1,9 @@
+Arduino UNO
+LM35 Temperature Sensor
+DC Fan
+Transistor
+Diode
+Resistor
+Breadboard
+Jumper Wires
+Power Supply
