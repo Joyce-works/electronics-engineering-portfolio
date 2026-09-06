@@ -4,25 +4,41 @@ An IoT-based weather monitoring system using ESP32 and multiple sensors to monit
 
 ## Features
 
-- Temperature and humidity monitoring
+- Temperature monitoring
+- Humidity monitoring
 - Atmospheric pressure monitoring
 - Air quality monitoring
 - Rain detection
-- Real-time sensor readings
+- Wi-Fi connectivity
+- ThingSpeak data monitoring
 
-## Hardware Used
+## Components Used
 
 - ESP32
-- DHT11/DHT22
+- DHT11
 - BMP280
 - MQ135
 - Rain Sensor
 
-## Software Used
+## Software
 
 - Arduino IDE
-- ESP32
 - Embedded C/C++
+- ThingSpeak
+
+## Working
+
+The ESP32 collects data from the connected sensors and processes the readings. The measured environmental data is displayed through the Serial Monitor and transmitted to ThingSpeak using Wi-Fi.
+
+## Sensor Data
+
+| Sensor | Parameter |
+|---|---|
+| DHT11 | Temperature |
+| DHT11 | Humidity |
+| BMP280 | Atmospheric Pressure |
+| MQ135 | Air Quality |
+| Rain Sensor | Rain Detection |
 
 ## Project Status
 
