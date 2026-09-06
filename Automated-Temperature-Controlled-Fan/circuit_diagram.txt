@@ -1,0 +1,12 @@
+LM35
+VCC  -> 5V
+GND  -> GND
+OUT  -> A0
+
+Fan Control
+Arduino D9 -> Transistor Base
+Fan         -> External Power Supply
+Transistor  -> GND
+
+Common Ground
+Arduino GND -> External Power Supply GND
