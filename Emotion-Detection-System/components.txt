@@ -1,0 +1,7 @@
+Arduino UNO
+KY-038 Sound Sensor
+16x2 LCD Display
+10K Potentiometer
+Breadboard
+Jumper Wires
+USB Cable
